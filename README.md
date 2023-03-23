@@ -1,6 +1,6 @@
-## Getting started with React
+# Getting started with React
 
-### learning outcomes:
+## learning outcomes
 
 - Event listeners
 - State
